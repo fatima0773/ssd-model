@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg files</folder>
+	<filename>62.jpg</filename>
+	<path>/Users/fatima/Downloads/jpg files/62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>1628</ymin>
+			<xmax>2554</xmax>
+			<ymax>2698</ymax>
+		</bndbox>
+	</object>
+</annotation>

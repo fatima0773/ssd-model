@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20231202T111419Z-001</folder>
+	<filename>254.jpg</filename>
+	<path>/Users/fatima/Downloads/drive-download-20231202T111419Z-001/254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1898</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>200</ymin>
+			<xmax>1827</xmax>
+			<ymax>1206</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset-medical-reports</folder>
+	<filename>133.jpg</filename>
+	<path>/Users/fatima/Downloads/dataset-medical-reports/133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>report</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>813</ymin>
+			<xmax>1047</xmax>
+			<ymax>2940</ymax>
+		</bndbox>
+	</object>
+</annotation>

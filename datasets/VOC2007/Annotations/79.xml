@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>79.jpeg</filename>
+	<path>/Users/fatima/FYP/Project/SSD-Tensorflow-On-Custom-Dataset/VOC2007/JPEGImages/79.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>1145</ymin>
+			<xmax>1740</xmax>
+			<ymax>2649</ymax>
+		</bndbox>
+	</object>
+</annotation>
